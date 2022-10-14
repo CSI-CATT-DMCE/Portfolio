@@ -1,5 +1,6 @@
 body {
   background-color: #EAF6F6;
+  margin-left: 100px;
 }
 
 hr {
@@ -16,4 +17,20 @@ h1 {
 
 h3 {
   color: #66BFBF;
+}
+
+.contact {
+  margin-left: 30%;
+  text-size-adjust: 100%;
+  font-size: large;
+}
+
+button{
+  background-color:#e7f044;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
 }
